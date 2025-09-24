@@ -1,0 +1,17 @@
+{"time":"2025-09-24T15:22:09.202Z","level":"error","message":"Message failed","error":"this.page.waitForTimeout is not a function"}
+{"time":"2025-09-24T15:24:15.465Z","level":"error","message":"Message failed","error":"this.page.$x is not a function"}
+{"time":"2025-09-24T16:48:23.204Z","level":"error","message":"Login failed","error":"isBlocked is not defined"}
+{"time":"2025-09-24T16:52:14.759Z","level":"error","message":"Message failed","error":"this.page.$x is not a function"}
+{"time":"2025-09-24T16:53:28.263Z","level":"error","message":"Login failed","error":"Waiting for selector `#email` failed"}
+{"time":"2025-09-24T16:54:25.880Z","level":"error","message":"Login failed","error":"Waiting for selector `#email` failed"}
+{"time":"2025-09-24T17:00:51.053Z","level":"error","message":"Login failed","error":"Waiting for selector `#email` failed"}
+{"time":"2025-09-24T17:06:09.158Z","level":"error","message":"Login failed","error":"Waiting for selector `#email` failed"}
+{"time":"2025-09-24T17:06:59.800Z","level":"error","message":"Login failed","error":"Waiting for selector `#email` failed"}
+{"time":"2025-09-24T17:19:40.489Z","level":"error","message":"Login failed","error":"page is not defined"}
+{"time":"2025-09-24T17:21:48.751Z","level":"error","message":"Login failed","error":"Waiting for selector `#email` failed"}
+{"time":"2025-09-24T17:33:00.352Z","level":"error","message":"Message failed","error":"this.page.$x is not a function"}
+{"time":"2025-09-24T17:34:25.865Z","level":"error","message":"Message failed","error":"this.page.$x is not a function"}
+{"time":"2025-09-24T17:47:35.231Z","level":"error","message":"Message failed","error":"this.page.$x is not a function"}
+{"time":"2025-09-24T17:47:59.586Z","level":"error","message":"Message failed","error":"this.page.$x is not a function"}
+{"time":"2025-09-24T18:06:54.335Z","level":"error","message":"Login failed","error":"Navigation timeout of 30000 ms exceeded"}
+{"time":"2025-09-24T18:48:30.981Z","level":"error","message":"Message failed","error":"this.page.$x is not a function"}

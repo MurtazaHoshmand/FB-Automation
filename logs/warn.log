@@ -1,0 +1,10 @@
+{"time":"2025-09-24T15:23:28.426Z","level":"warn","message":"Captcha detected by page text","pattern":"security check"}
+{"time":"2025-09-24T16:49:55.763Z","level":"warn","message":"Captcha detected by page text","pattern":"security check"}
+{"time":"2025-09-24T16:50:55.945Z","level":"warn","message":"Captcha detected by selector","selector":"div[role='dialog']"}
+{"time":"2025-09-24T16:51:24.885Z","level":"warn","message":"Captcha detected by selector","selector":"div[role='dialog']"}
+{"time":"2025-09-24T16:59:45.479Z","level":"warn","message":"Captcha detected by page text","pattern":"security check"}
+{"time":"2025-09-24T17:27:31.075Z","level":"warn","message":"Captcha detected by selector","selector":"div[role='dialog']"}
+{"time":"2025-09-24T17:29:15.226Z","level":"warn","message":"Captcha detected by selector","selector":"div[role='dialog']"}
+{"time":"2025-09-24T17:30:03.641Z","level":"warn","message":"Captcha detected by selector","selector":"div[role='dialog']"}
+{"time":"2025-09-24T18:21:35.723Z","level":"warn","message":"Captcha detected by selector","selector":"div[role='dialog']"}
+{"time":"2025-09-24T18:35:34.885Z","level":"warn","message":"Captcha detected by selector","selector":"div[role='dialog']"}

@@ -1,0 +1,68 @@
+{"time":"2025-09-24T15:21:56.098Z","level":"info","message":"Initiating message to: Mahdi Merzaye"}
+{"time":"2025-09-24T15:23:16.127Z","level":"info","message":"Attempting login..."}
+{"time":"2025-09-24T15:23:33.752Z","level":"info","message":"Attempting login..."}
+{"time":"2025-09-24T15:23:46.224Z","level":"info","message":"Login successful"}
+{"time":"2025-09-24T15:23:56.051Z","level":"info","message":"Initiating message to: Mahdi Merzaye"}
+{"time":"2025-09-24T16:44:39.072Z","level":"info","message":"Session loaded","ok":false,"error":"ENOENT: no such file or directory, open 'C:\\Users\\Administrator\\Desktop\\BlueSales\\projects\\fb-automation\\sessions\\default.json'"}
+{"time":"2025-09-24T16:48:23.203Z","level":"info","message":"Attempting login..."}
+{"time":"2025-09-24T16:49:32.847Z","level":"info","message":"Session loaded","ok":false,"error":"ENOENT: no such file or directory, open 'C:\\Users\\Administrator\\Desktop\\BlueSales\\projects\\fb-automation\\sessions\\default.json'"}
+{"time":"2025-09-24T16:49:43.013Z","level":"info","message":"Attempting login..."}
+{"time":"2025-09-24T16:50:34.085Z","level":"info","message":"Attempting login..."}
+{"time":"2025-09-24T16:51:13.576Z","level":"info","message":"sendMessage start","recipient":"Mahdi Merzaye"}
+{"time":"2025-09-24T16:52:03.051Z","level":"info","message":"sendMessage start","recipient":"Mahdi Merzaye"}
+{"time":"2025-09-24T16:53:12.061Z","level":"info","message":"Attempting login..."}
+{"time":"2025-09-24T16:54:08.689Z","level":"info","message":"Attempting login..."}
+{"time":"2025-09-24T16:59:14.861Z","level":"info","message":"Session loaded","ok":false,"error":"ENOENT: no such file or directory, open 'C:\\Users\\Administrator\\Desktop\\BlueSales\\projects\\fb-automation\\sessions\\default.json'"}
+{"time":"2025-09-24T16:59:31.609Z","level":"info","message":"Attempting login..."}
+{"time":"2025-09-24T17:00:00.785Z","level":"info","message":"Attempting login..."}
+{"0":"C","1":":","2":"\\","3":"U","4":"s","5":"e","6":"r","7":"s","8":"\\","9":"A","10":"d","11":"m","12":"i","13":"n","14":"i","15":"s","16":"t","17":"r","18":"a","19":"t","20":"o","21":"r","22":"\\","23":"D","24":"e","25":"s","26":"k","27":"t","28":"o","29":"p","30":"\\","31":"B","32":"l","33":"u","34":"e","35":"S","36":"a","37":"l","38":"e","39":"s","40":"\\","41":"p","42":"r","43":"o","44":"j","45":"e","46":"c","47":"t","48":"s","49":"\\","50":"f","51":"b","52":"-","53":"a","54":"u","55":"t","56":"o","57":"m","58":"a","59":"t","60":"i","61":"o","62":"n","63":"\\","64":"s","65":"e","66":"s","67":"s","68":"i","69":"o","70":"n","71":"s","72":"\\","73":"d","74":"e","75":"f","76":"a","77":"u","78":"l","79":"t","80":".","81":"j","82":"s","83":"o","84":"n","time":"2025-09-24T17:00:19.846Z","level":"info","message":"Session saved"}
+{"time":"2025-09-24T17:00:19.847Z","level":"info","message":"Login successful"}
+{"time":"2025-09-24T17:00:34.195Z","level":"info","message":"Attempting login..."}
+{"time":"2025-09-24T17:05:42.521Z","level":"info","message":"Session loaded","ok":true,"file":"C:\\Users\\Administrator\\Desktop\\BlueSales\\projects\\fb-automation\\sessions\\default.json"}
+{"time":"2025-09-24T17:05:49.077Z","level":"info","message":"Attempting login..."}
+{"time":"2025-09-24T17:06:17.898Z","level":"info","message":"Session loaded","ok":true,"file":"C:\\Users\\Administrator\\Desktop\\BlueSales\\projects\\fb-automation\\sessions\\default.json"}
+{"time":"2025-09-24T17:06:25.980Z","level":"info","message":"Attempting login..."}
+{"time":"2025-09-24T17:08:48.728Z","level":"info","message":"Session loaded","ok":true,"file":"C:\\Users\\Administrator\\Desktop\\BlueSales\\projects\\fb-automation\\sessions\\default.json"}
+{"time":"2025-09-24T17:18:59.995Z","level":"info","message":"Session loaded","ok":true,"file":"C:\\Users\\Administrator\\Desktop\\BlueSales\\projects\\fb-automation\\sessions\\default.json"}
+{"time":"2025-09-24T17:19:19.471Z","level":"info","message":"Attempting login..."}
+{"time":"2025-09-24T17:21:11.887Z","level":"info","message":"Session loaded","ok":true,"file":"C:\\Users\\Administrator\\Desktop\\BlueSales\\projects\\fb-automation\\sessions\\default.json"}
+{"time":"2025-09-24T17:21:18.082Z","level":"info","message":"Attempting login..."}
+{"time":"2025-09-24T17:24:50.294Z","level":"info","message":"Session loaded","ok":true,"file":"C:\\Users\\Administrator\\Desktop\\BlueSales\\projects\\fb-automation\\sessions\\default.json"}
+{"time":"2025-09-24T17:24:57.192Z","level":"info","message":"Attempting login..."}
+{"time":"2025-09-24T17:27:19.096Z","level":"info","message":"sendMessage start","recipient":"Mahdi Merzaye"}
+{"time":"2025-09-24T17:29:07.602Z","level":"info","message":"sendMessage start","recipient":"Mahdi Merzaye"}
+{"time":"2025-09-24T17:29:51.111Z","level":"info","message":"sendMessage start","recipient":"Qasim Haqjo"}
+{"time":"2025-09-24T17:32:44.216Z","level":"info","message":"sendMessage start","recipient":"Qasim Haqjo"}
+{"time":"2025-09-24T17:34:12.611Z","level":"info","message":"sendMessage start","recipient":"Mokhtar Sultani"}
+{"time":"2025-09-24T17:46:51.649Z","level":"info","message":"Session loaded","ok":true,"file":"C:\\Users\\Administrator\\Desktop\\BlueSales\\projects\\fb-automation\\sessions\\default.json"}
+{"time":"2025-09-24T17:47:05.366Z","level":"info","message":"sendMessage start","recipient":"Mokhtar Sultani"}
+{"time":"2025-09-24T17:47:46.143Z","level":"info","message":"sendMessage start","recipient":"Mokhtar Sultani"}
+{"time":"2025-09-24T17:55:50.641Z","level":"info","message":"Session loaded","ok":true,"file":"C:\\Users\\Administrator\\Desktop\\BlueSales\\projects\\fb-automation\\sessions\\default.json"}
+{"time":"2025-09-24T17:56:00.322Z","level":"info","message":"sendMessage start","recipient":"Mokhtar Sultani"}
+{"time":"2025-09-24T17:56:09.102Z","level":"info","message":"sendMessage start","recipient":"Mokhtar Sultani"}
+{"time":"2025-09-24T17:59:11.119Z","level":"info","message":"Attempting login..."}
+{"time":"2025-09-24T17:59:47.519Z","level":"info","message":"sendMessage start","recipient":"Mokhtar Sultani"}
+{"time":"2025-09-24T18:01:01.113Z","level":"info","message":"sendMessage start","recipient":"Mokhtar Sultani"}
+{"time":"2025-09-24T18:06:08.921Z","level":"info","message":"Session loaded","ok":true,"file":"C:\\Users\\Administrator\\Desktop\\BlueSales\\projects\\fb-automation\\sessions\\default.json"}
+{"time":"2025-09-24T18:06:24.333Z","level":"info","message":"Attempting login..."}
+{"time":"2025-09-24T18:08:56.205Z","level":"info","message":"sendMessage start","recipient":"Mokhtar Sultani"}
+{"time":"2025-09-24T18:12:21.595Z","level":"info","message":"sendMessage start","recipient":"Mokhtar Sultani"}
+{"time":"2025-09-24T18:12:41.960Z","level":"info","message":"Session loaded","ok":true,"file":"C:\\Users\\Administrator\\Desktop\\BlueSales\\projects\\fb-automation\\sessions\\default.json"}
+{"time":"2025-09-24T18:12:47.572Z","level":"info","message":"sendMessage start","recipient":"Mokhtar Sultani"}
+{"time":"2025-09-24T18:13:57.617Z","level":"info","message":"Attempting login..."}
+{"time":"2025-09-24T18:14:28.640Z","level":"info","message":"sendMessage start","recipient":"Mokhtar Sultani"}
+{"time":"2025-09-24T18:19:06.913Z","level":"info","message":"Session loaded","ok":true,"file":"C:\\Users\\Administrator\\Desktop\\BlueSales\\projects\\fb-automation\\sessions\\default.json"}
+{"time":"2025-09-24T18:19:15.221Z","level":"info","message":"sendMessage start","recipient":"Mokhtar Sultani"}
+{"time":"2025-09-24T18:21:06.525Z","level":"info","message":"Session loaded","ok":true,"file":"C:\\Users\\Administrator\\Desktop\\BlueSales\\projects\\fb-automation\\sessions\\default.json"}
+{"time":"2025-09-24T18:21:14.727Z","level":"info","message":"sendMessage start","recipient":"Mokhtar Sultani"}
+{"time":"2025-09-24T18:22:51.987Z","level":"info","message":"sendMessage start","recipient":"Mokhtar Sultani"}
+{"time":"2025-09-24T18:34:54.650Z","level":"info","message":"Session loaded","ok":true,"file":"C:\\Users\\Administrator\\Desktop\\BlueSales\\projects\\fb-automation\\sessions\\default.json"}
+{"time":"2025-09-24T18:35:03.682Z","level":"info","message":"sendMessage start","recipient":"Mokhtar Sultani"}
+{"time":"2025-09-24T18:36:11.388Z","level":"info","message":"sendMessage start","recipient":"Mokhtar Sultani"}
+{"time":"2025-09-24T18:37:07.762Z","level":"info","message":"Session loaded","ok":true,"file":"C:\\Users\\Administrator\\Desktop\\BlueSales\\projects\\fb-automation\\sessions\\default.json"}
+{"time":"2025-09-24T18:37:14.590Z","level":"info","message":"sendMessage start","recipient":"Mokhtar Sultani"}
+{"time":"2025-09-24T18:43:39.649Z","level":"info","message":"Session loaded","ok":true,"file":"C:\\Users\\Administrator\\Desktop\\BlueSales\\projects\\fb-automation\\sessions\\default.json"}
+{"time":"2025-09-24T18:43:57.736Z","level":"info","message":"sendMessage start","recipient":"Mokhtar Sultani"}
+{"time":"2025-09-24T18:46:43.524Z","level":"info","message":"Session loaded","ok":true,"file":"C:\\Users\\Administrator\\Desktop\\BlueSales\\projects\\fb-automation\\sessions\\default.json"}
+{"time":"2025-09-24T18:46:56.298Z","level":"info","message":"sendMessage start","recipient":"Mokhtar Sultani"}
+{"time":"2025-09-24T18:56:52.018Z","level":"info","message":"Session loaded","ok":true,"file":"C:\\Users\\Administrator\\Desktop\\BlueSales\\projects\\fb-automation\\sessions\\default.json"}
